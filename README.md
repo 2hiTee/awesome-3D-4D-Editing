@@ -21,8 +21,8 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 
 | | List | Description |
 |:---:|:---|:---|
-| 🎨 | **[Awesome 3D Generation](https://github.com/YOUR_USERNAME/awesome-3d-generation)** | Papers on 3D/4D content generation |
-| 🔄 | **[Awesome FeedForward 3D/4D Reconstruction](https://github.com/YOUR_USERNAME/awesome-feedforward-3d-4d-reconstruction)** | Papers on feed-forward 3D/4D reconstruction |
+| 🎨 | **[Awesome 3D Generation](https://github.com/2hiTee/awesome-3D-Generation)** | Papers on 3D/4D content generation |
+| 🔄 | **[Awesome FeedForward 3D/4D Reconstruction](https://github.com/2hiTee/awesome-feedforward-3D-4D-Reconstruction)** | Papers on feed-forward 3D/4D reconstruction |
 
 </div>
 
