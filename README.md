@@ -7,7 +7,6 @@
 A curated collection of cutting-edge research papers on **3D and 4D Scene / Object Editing**.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Papers](https://img.shields.io/badge/Total_Papers-56-blue?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 **If you find this repo useful, please consider giving it a ⭐!**
 
@@ -30,12 +29,12 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 
 ## 📋 Table of Contents
 
-| Section | Topic | Count |
-|:---:|:---|:---:|
-| 🖌️ | [NeRF Editing](#-nerf-editing) | 12 |
-| 💠 | [3DGS Editing](#-3dgs-editing) | 27 |
-| 🎬 | [4D Editing](#-4d-editing) | 7 |
-| 📦 | [3D Object Editing](#-3d-object-editing) | 10 |
+| Section | Topic |
+|:---:|:---|
+| 🖌️ | [NeRF Editing](#-nerf-editing) |
+| 💠 | [3DGS Editing](#-3dgs-editing) |
+| 🎬 | [4D Editing](#-4d-editing) |
+| 📦 | [3D Object Editing](#-3d-object-editing) |
 
 ---
 
