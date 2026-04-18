@@ -130,9 +130,10 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 | 5 | **3D Mesh Editing Using Masked LRMs** | [📄](http://arxiv.org/abs/2412.08641) |
 | 6 | **NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks** | [📄](http://arxiv.org/abs/2510.15019) |
 | 7 | **Native 3D Editing with Full Attention** | [📄](http://arxiv.org/abs/2511.17501) |
-| 8 | **Feedforward 3D Editing via Text-Steerable Image-to-3D** | [📄](http://arxiv.org/abs/2512.13678) |
-| 9 | **Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow** | [📄](http://arxiv.org/abs/2602.21499) |
-| 10 | **VecSet-Edit: Unleashing Pre-Trained LRM for Mesh Editing from Single Image** | [📄](https://arxiv.org/abs/2602.04349) |
+| 8 | **AnchorFlow: Training-Free 3D Editing via Latent Anchor-Aligned Flows** | [📄](https://arxiv.org/abs/2511.22357) | 
+| 9 | **Feedforward 3D Editing via Text-Steerable Image-to-3D** | [📄](http://arxiv.org/abs/2512.13678) |
+| 10 | **Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow** | [📄](http://arxiv.org/abs/2602.21499) |
+| 11 | **VecSet-Edit: Unleashing Pre-Trained LRM for Mesh Editing from Single Image** | [📄](https://arxiv.org/abs/2602.04349) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
