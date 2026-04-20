@@ -47,15 +47,16 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 | 1 | **NeRF-Editing: Geometry Editing of Neural Radiance Fields** | [📄](https://arxiv.org/abs/2205.04978v1) |
 | 2 | **Deforming Radiance Fields with Cages** | [📄](http://arxiv.org/abs/2207.12298) |
 | 3 | **Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions** | [📄](http://arxiv.org/abs/2303.12789) |
-| 4 | **NeRFshop: Interactive Editing of Neural Radiance Fields** | [📄](https://dl.acm.org/doi/10.1145/3585499) |
-| 5 | **DreamEditor: Text-Driven 3D Scene Editing with Neural Fields** | [📄](http://arxiv.org/abs/2306.13455) |
-| 6 | **ED-NeRF: Efficient Text-Guided Editing of 3D Scene with Latent Space NeRF** | [📄](http://arxiv.org/abs/2310.02712) |
-| 7 | **ProteusNeRF: Fast Lightweight NeRF Editing Using 3D-Aware Image Context** | [📄](http://arxiv.org/abs/2310.09965) |
-| 8 | **Posterior Distillation Sampling** | [📄](http://arxiv.org/abs/2311.13831) |
-| 9 | **Free-Editor: Zero-Shot Text-Driven 3D Scene Editing** | [📄](http://arxiv.org/abs/2312.13663) |
-| 10 | **TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts and Image-Prompts** | [📄](http://arxiv.org/abs/2401.14828) |
-| 11 | **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields** | [📄](http://arxiv.org/abs/2402.00864) |
-| 12 | **StyleDyRF: Zero-Shot 4D Style Transfer for Dynamic Neural Radiance Fields** | [📄](http://arxiv.org/abs/2403.08310) |
+| 4 | **DreamBooth3D: Subject-Driven Text-to-3D Generation** | [📄](https://arxiv.org/abs/2303.13508)
+| 5 | **NeRFshop: Interactive Editing of Neural Radiance Fields** | [📄](https://dl.acm.org/doi/10.1145/3585499) |
+| 6 | **DreamEditor: Text-Driven 3D Scene Editing with Neural Fields** | [📄](http://arxiv.org/abs/2306.13455) |
+| 7 | **ED-NeRF: Efficient Text-Guided Editing of 3D Scene with Latent Space NeRF** | [📄](http://arxiv.org/abs/2310.02712) |
+| 8 | **ProteusNeRF: Fast Lightweight NeRF Editing Using 3D-Aware Image Context** | [📄](http://arxiv.org/abs/2310.09965) |
+| 9 | **Posterior Distillation Sampling** | [📄](http://arxiv.org/abs/2311.13831) |
+| 10 | **Free-Editor: Zero-Shot Text-Driven 3D Scene Editing** | [📄](http://arxiv.org/abs/2312.13663) |
+| 11 | **TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts and Image-Prompts** | [📄](http://arxiv.org/abs/2401.14828) |
+| 12 | **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields** | [📄](http://arxiv.org/abs/2402.00864) |
+| 13 | **StyleDyRF: Zero-Shot 4D Style Transfer for Dynamic Neural Radiance Fields** | [📄](http://arxiv.org/abs/2403.08310) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
