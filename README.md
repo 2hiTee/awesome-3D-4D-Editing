@@ -95,6 +95,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 | 25 | **C3Editor: Achieving Controllable Consistency in 2D Model for 3D Editing** | [📄](http://arxiv.org/abs/2510.04539) |
 | 26 | **EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection** | [📄](http://arxiv.org/abs/2510.13652) |
 | 27 | **3D-Consistent Multi-View Editing by Diffusion Guidance** | [📄](https://arxiv.org/abs/2511.22228) |
+| 28 | **FluSplat: Sparse-view 3D editing without test-time optimization** | [📄]( http://arxiv.org/abs/2604.20038) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
