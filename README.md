@@ -71,31 +71,34 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 | 1 | **Instruct-GS2GS: Editing 3D Gaussian Splats with Instructions** | [📄](https://instruct-gs2gs.github.io/data/Instruct-GS2GS_2024.pdf) |
 | 2 | **GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting** | [📄](http://arxiv.org/abs/2311.14521) |
 | 3 | **GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions** | [📄](http://arxiv.org/abs/2311.16037) |
-| 4 | **GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting** | [📄](http://arxiv.org/abs/2403.05154) |
-| 5 | **StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting** | [📄](http://arxiv.org/abs/2403.07807) |
-| 6 | **GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing** | [📄](http://arxiv.org/abs/2403.08733) |
-| 7 | **View-Consistent 3D Editing with Gaussian Splatting** | [📄](http://arxiv.org/abs/2403.11868) |
-| 8 | **DGE: Direct Gaussian 3D Editing by Consistent Multi-View Editing** | [📄](http://arxiv.org/abs/2404.18929) |
-| 9 | **3DEgo: 3D Editing on the Go!** | [📄](http://arxiv.org/abs/2407.10102) |
-| 10 | **DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity** | [📄](http://arxiv.org/abs/2407.11394) |
-| 11 | **3D Gaussian Editing with A Single Image** | [📄](http://arxiv.org/abs/2408.07540) |
-| 12 | **GS-VTON: Controllable 3D Virtual Try-On with Gaussian Splatting** | [📄](https://arxiv.org/abs/2410.05259v1) |
-| 13 | **MvDrag3D: Drag-Based Creative 3D Editing via Multi-View Generation-Reconstruction Priors** | [📄](http://arxiv.org/abs/2410.16272) |
-| 14 | **ProEdit: Simple Progression Is All You Need for High-Quality 3D Scene Editing** | [📄](http://arxiv.org/abs/2411.05006) |
-| 15 | **GSEditPro: 3D Gaussian Splatting Editing with Attention-Based Progressive Localization** | [📄](http://arxiv.org/abs/2411.10033) |
-| 16 | **Diffusion-Based Attention Warping for Consistent 3D Scene Editing** | [📄](http://arxiv.org/abs/2412.07984) |
-| 17 | **EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing** | [📄](http://arxiv.org/abs/2412.11520) |
-| 18 | **3D Gaussian Inpainting with Depth-Guided Cross-View Consistency** | [📄](http://arxiv.org/abs/2502.11801) |
-| 19 | **V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes** | [📄](http://arxiv.org/abs/2503.10634) |
-| 20 | **Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image** | [📄](http://arxiv.org/abs/2505.14537) |
-| 21 | **CoreEditor: Consistent 3D Editing via Correspondence-Constrained Diffusion** | [📄](http://arxiv.org/abs/2508.11603) |
-| 22 | **Tinker: Diffusion's Gift to 3D — Multi-View Consistent Editing from Sparse Inputs** | [📄](http://arxiv.org/abs/2508.14811) |
-| 23 | **VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space** | [📄](http://arxiv.org/abs/2508.19247) |
-| 24 | **Towards Scalable and Consistent 3D Editing** | [📄](http://arxiv.org/abs/2510.02994) |
-| 25 | **C3Editor: Achieving Controllable Consistency in 2D Model for 3D Editing** | [📄](http://arxiv.org/abs/2510.04539) |
-| 26 | **EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection** | [📄](http://arxiv.org/abs/2510.13652) |
-| 27 | **3D-Consistent Multi-View Editing by Diffusion Guidance** | [📄](https://arxiv.org/abs/2511.22228) |
-| 28 | **FluSplat: Sparse-view 3D editing without test-time optimization** | [📄]( http://arxiv.org/abs/2604.20038) |
+| 4 | **TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts** | [📄](https://arxiv.org/abs/2401.14828) |
+| 5 | **GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting** | [📄](http://arxiv.org/abs/2403.05154) |
+| 6 | **StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting** | [📄](http://arxiv.org/abs/2403.07807) |
+| 7 | **GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing** | [📄](http://arxiv.org/abs/2403.08733) |
+| 8 | **View-Consistent 3D Editing with Gaussian Splatting** | [📄](http://arxiv.org/abs/2403.11868) |
+| 9 | **DGE: Direct Gaussian 3D Editing by Consistent Multi-View Editing** | [📄](http://arxiv.org/abs/2404.18929) |
+| 10 | **3DEgo: 3D Editing on the Go!** | [📄](http://arxiv.org/abs/2407.10102) |
+| 11 | **DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity** | [📄](http://arxiv.org/abs/2407.11394) |
+| 12 | **3D Gaussian Editing with A Single Image** | [📄](http://arxiv.org/abs/2408.07540) |
+| 13 | **GS-VTON: Controllable 3D Virtual Try-On with Gaussian Splatting** | [📄](https://arxiv.org/abs/2410.05259v1) |
+| 14 | **MvDrag3D: Drag-Based Creative 3D Editing via Multi-View Generation-Reconstruction Priors** | [📄](http://arxiv.org/abs/2410.16272) |
+| 15 | **ProEdit: Simple Progression Is All You Need for High-Quality 3D Scene Editing** | [📄](http://arxiv.org/abs/2411.05006) |
+| 16 | **GSEditPro: 3D Gaussian Splatting Editing with Attention-Based Progressive Localization** | [📄](http://arxiv.org/abs/2411.10033) |
+| 17 | **Diffusion-Based Attention Warping for Consistent 3D Scene Editing** | [📄](http://arxiv.org/abs/2412.07984) |
+| 18 | **EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing** | [📄](http://arxiv.org/abs/2412.11520) |
+| 19 | **3D Gaussian Inpainting with Depth-Guided Cross-View Consistency** | [📄](http://arxiv.org/abs/2502.11801) |
+| 20 | **V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes** | [📄](http://arxiv.org/abs/2503.10634) |
+| 21 | **Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image** | [📄](http://arxiv.org/abs/2505.14537) |
+| 22 | **CoreEditor: Consistent 3D Editing via Correspondence-Constrained Diffusion** | [📄](http://arxiv.org/abs/2508.11603) |
+| 23 | **Tinker: Diffusion's Gift to 3D — Multi-View Consistent Editing from Sparse Inputs** | [📄](http://arxiv.org/abs/2508.14811) |
+| 24 | **VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space** | [📄](http://arxiv.org/abs/2508.19247) |
+| 25 | **Towards Scalable and Consistent 3D Editing** | [📄](http://arxiv.org/abs/2510.02994) |
+| 26 | **C3Editor: Achieving Controllable Consistency in 2D Model for 3D Editing** | [📄](http://arxiv.org/abs/2510.04539) |
+| 27 | **EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection** | [📄](http://arxiv.org/abs/2510.13652) |
+| 28 | **3D-Consistent Multi-View Editing by Diffusion Guidance** | [📄](https://arxiv.org/abs/2511.22228) |
+| 29 | **Fast Multi-view Consistent 3D Editing with Video Priors** | [📄](https://arxiv.org/abs/2511.23172) |
+| 30 | **TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking** | [📄](https://arxiv.org/abs/2604.01207) |
+| 31 | **FluSplat: Sparse-view 3D editing without test-time optimization** | [📄]( http://arxiv.org/abs/2604.20038) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
