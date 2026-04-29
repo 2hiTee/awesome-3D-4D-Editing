@@ -97,8 +97,11 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 | 27 | **EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection** | [📄](http://arxiv.org/abs/2510.13652) |
 | 28 | **3D-Consistent Multi-View Editing by Diffusion Guidance** | [📄](https://arxiv.org/abs/2511.22228) |
 | 29 | **Fast Multi-view Consistent 3D Editing with Video Priors** | [📄](https://arxiv.org/abs/2511.23172) |
-| 30 | **TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking** | [📄](https://arxiv.org/abs/2604.01207) |
-| 31 | **FluSplat: Sparse-view 3D editing without test-time optimization** | [📄]( http://arxiv.org/abs/2604.20038) |
+| 30 | **Edit3r: Instant 3D Scene Editing from Sparse Unposed Images** | [📄](http://arxiv.org/abs/2512.25071) |
+| 31 | **Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing** | [📄](http://arxiv.org/abs/2603.03143) |
+| 32 | **Omni-3DEdit: Generalized versatile 3D editing in one-pass** | [📄](http://arxiv.org/abs/2603.17841) |
+| 33 | **TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking** | [📄](https://arxiv.org/abs/2604.01207) |
+| 34 | **FluSplat: Sparse-view 3D editing without test-time optimization** | [📄](http://arxiv.org/abs/2604.20038) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
