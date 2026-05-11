@@ -143,6 +143,8 @@ A curated collection of cutting-edge research papers on **3D and 4D Scene / Obje
 | 10 | **Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow** | [📄](http://arxiv.org/abs/2602.21499) |
 | 11 | **VecSet-Edit: Unleashing Pre-Trained LRM for Mesh Editing from Single Image** | [📄](https://arxiv.org/abs/2602.04349) |
 | 12 | **InpaintSLat: Inpainting Structured 3D Latents via Initial Noise Optimization** | [📄](http://arxiv.org/abs/2605.00664) |
+| 13 | **Velocity-Space 3D Asset Editing** | [📄](http://arxiv.org/abs/2605.07385) |
+| 14 | **DVD: Discrete Voxel Diffusion for 3D Generation and Editing** | [📄](https://arxiv.org/abs/2605.07971v1) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
